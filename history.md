@@ -19,6 +19,9 @@
     - [x] Настройки simplejwt
     - [x] Настройки rest framework
     - [x] Настройки csrf и cors
+- [ ] Создание проекта Account
+    - [x] Создание модели User
+
 
     
  
